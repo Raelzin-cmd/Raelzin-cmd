@@ -24,7 +24,5 @@ const ageRegex = /(\d+)/
 if (readmeContent.match(ageRegex)) {
   readmeContent = readmeContent.replace(ageRegex, `${currentAge}`)
   fs.writeFileSync(readmePath, readmeContent)
-  console.log(`Idade atualizada para: ${currentAge} no README.md`)
-} else {
-  console.error('Marcadores e não encontrados no README.md. Por favor, adicione-os.')
+  console.log(currentAge)
 }
