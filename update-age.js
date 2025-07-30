@@ -14,7 +14,7 @@ function calculateAge(birthDate) {
   return age
 }
 
-const currentAge - calculateAge(BIRTH_DATE)
+const currentAge = calculateAge(BIRTH_DATE)
 
 const readmePath = path.join(__dirname, 'README.md')
 let readmeContent = fs.readFileSync(readmePath, 'utf8')
