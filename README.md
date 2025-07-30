@@ -1,17 +1,28 @@
 # Hi! I'm Israel, but you can just call me Rael...
 
+### About me:
+* I'm (update-age.js here) years old and have a young spirit (sometimes I feel old, very old actually)
+* Immersed in geek culture, from comics and science fiction films to various types of anime
+* My furry companions, Alice and Lola, are two beautiful dogs
+* Exploring the world of web development for several years
+* A true rock enthusiast, I play some instruments and sing
+* Avid follower of unboxing and review content
+* Driven by a constant love for technology
+
+
+
+### Statistics on GitHub:
 <div>
   <a href="#">
     <img height=200 align="center" src="https://my-stats-43gk.vercel.app/api?username=Raelzin-cmd&show_icons=true&theme=dark&hide=contribs,issues&show=discussions_answered&rank_icon=github&include_all_commits=true&card_width=150" />
   </a>
    <a href="#">
-    <img height=200 align="center" src="https://my-stats-43gk.vercel.app/api/top-langs/?username=Raelzin-cmd&hide=scss&langs_count=8&theme=dark&card_width=150" />
+    <img height=200 align="center" src="https://my-stats-43gk.vercel.app/api/top-langs/?username=Raelzin-cmd&hide=scss&langs_count=8&theme=dark&card_width=150"/>
   </a>
 </div>
 
-### My skills
-
-<div class= "skills" style="inline_block"><br>
+### My skills:
+<div class= "skills" style="inline_block">
   <img align="center" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/javascript/javascript-original.svg" width=40 heigth=40>
   <img align="center" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/typescript/typescript-original.svg" width=40 heigth=40>
   <img align="center" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/react/react-original.svg" width=40 heitgh=40>        
