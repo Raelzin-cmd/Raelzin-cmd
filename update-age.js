@@ -19,10 +19,12 @@ const currentAge - calculateAge(BIRTH_DATE)
 const readmePath = path.join(__dirname, 'README.md')
 let readmeContent = fs.readFileSync(readmePath, 'utf8')
 
-const ageRegex = /(\d+)/
+const ageRegex = /\(update-age\.js here\)/
 
 if (readmeContent.match(ageRegex)) {
-  readmeContent = readmeContent.replace(ageRegex, `${currentAge}`)
-  fs.writeFileSync(readmePath, readmeContent)
-  console.log(currentAge)
+  readmeContent = readmeContent.replace(ageRegex, `${currentAge}`);
+  fs.writeFileSync(readmePath, readmeContent);
+  console.log(`README updated with age: ${currentAge}`);
+} else {
+  console.log("Placeholder '(update-age.js here)' not found in README. No update performed.");
 }
