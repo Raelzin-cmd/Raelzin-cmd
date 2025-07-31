@@ -1,4 +1,4 @@
-# Hi! I'm Israel, but you can just call me Rael...
+<h1 align="center">Hi! 🙋 <br> I'm Israel, but you can just call me Rael...</h1>
 
 ### About me:
 * I'm 26 years old and have a young spirit (sometimes I feel old, very old actually)
