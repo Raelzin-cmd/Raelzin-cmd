@@ -3,7 +3,7 @@ name: Update Age in README
 on:
   schedule:
     - cron: "0 0 * * *"
-  workflow_despatch:
+  workflow_dispatch:
 
 jobs:
   update-age:
