@@ -1,7 +1,7 @@
 <h1 align="center">Hi! 🙋 <br> I'm Israel, but you can just call me Rael...</h1>
 
 ### About me:
-* I'm {{AGE}} years old and have a young spirit (sometimes I feel old, very old actually)
+* I'm 27 years old and have a young spirit (sometimes I feel old, very old actually)
 * Immersed in geek culture, from comics and science fiction films to various types of anime
 * My furry companions, Alice and Lola, are two beautiful dogs
 * Exploring the world of web development for several years
