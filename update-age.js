@@ -19,7 +19,7 @@ const currentAge = calculateAge(BIRTH_DATE)
 const readmePath = path.join(__dirname, 'README.md')
 let readmeContent = fs.readFileSync(readmePath, 'utf8')
 
-const ageRegex = /\(update-age\.js here\)/
+const ageRegex = /{{AGE}}/
 
 if (readmeContent.match(ageRegex)) {
   readmeContent = readmeContent.replace(ageRegex, `${currentAge}`);
